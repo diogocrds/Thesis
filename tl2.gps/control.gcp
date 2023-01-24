@@ -1,0 +1,5 @@
+until (endProcess) { main(); }
+
+function main() {
+	alap {(histoBeginH |			histoBeginT |			histoReadA |			histoReadV |			histoWriteV |			histoWriteV1 |			histoReadV1 |			histoReadV2 |			histoCommitA |			histoCommitV);}
+		}
